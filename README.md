@@ -36,7 +36,7 @@ The generated Markdown blueprint appears in the project folder after a successfu
 On the GitHub repository page, select **Code**, copy the repository URL, and run:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/apranavsai07/agentic-workshop 
 cd agentic-workshop
 ```
 
